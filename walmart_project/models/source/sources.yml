@@ -1,0 +1,11 @@
+sources:
+  - name: walmart_databricks
+    database: walmart
+    schema: bronze
+    tables:
+      - name: customers  # enabled
+      - name: orders  # not enabled
+      - name: products  # not enabled   
+      - name: order_items  # not enabled
+      - name: stores  # not enabled
+      - name: employees  # not enabled

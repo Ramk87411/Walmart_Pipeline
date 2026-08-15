@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "D:/project/walmart_dbt/.venv/Scripts/python.exe",
+  "terminal.integrated.env.windows": {
+    "PATH": "D:/project/walmart_dbt/.venv/Scripts;${env:PATH}"
+  }
+}
